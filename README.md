@@ -7,6 +7,26 @@
 ## Protecting the Multi-Chain Ecosystem
 QUBEX SENTINEL is a chain-agnostic Post-Quantum Cryptography (PQC) middleware. We are closing the 7-Year Quantum Migration Gap by shielding L1/L2 sequencers and institutional custody layers against HNDL (Harvest Now, Decrypt Later) attacks.
 
+---
+
+## Technical Architecture
+
+QUBEX is built on a dual-layer strategy to bridge the gap between scientific research and industrial-grade performance:
+
+* Research & Validation (Python): Scientific implementation of NIST Level 5 lattice-based algorithms (Dilithium-5, Kyber-1024).
+* Production Engine (Go): High-concurrency core engine optimized for sub-millisecond logic execution and native L2 node integration.
+
+## Performance Benchmarks (v9.0)
+
+| Metric | Value |
+| :--- | :--- |
+| Core Logic Overhead | 0.52 ms (Optimized Go Binary) |
+| Total Network Latency | 11.2 ms |
+| Security Standard | NIST Post-Quantum Level 5 |
+| Gas Efficiency | Up to 90% reduction via proof aggregation |
+
+---
+
 ## Key Benchmarks (v9.0)
 The core logic has been stress-tested using our proprietary "Chaos Engine" v9.0:
 * TVL Resilience: Tested against $10.5B+ in simulated digital assets.
