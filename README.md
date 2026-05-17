@@ -55,7 +55,7 @@ Our architecture is designed to decouple security validation from execution logi
 ## Strategic Roadmap
 - Q3 2026: Devnet Deployment & PQC Logic Validation.
 - Q1 2027: Institutional Security Pilot & Tier-1 Audits.
-- 2028: Global L2 Security Standard.
+- 2028+: Global L2 Security Standard.
 
 ---
 *For full Technical Briefing and White-Box testing access, please visit [qubexsentinel.com](https://qubexsentinel.com).*
