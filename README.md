@@ -1,6 +1,6 @@
 # QUBEX SENTINEL | PQC Security Middleware
 
-![Status](https://img.shields.io/badge/Status-Stealth_Mode-red)
+![Status](https://img.shields.io/badge/Status-Public_Beta-red)
 ![Version](https://img.shields.io/badge/Version-9.0_Benchmarked-cyan)
 ![Focus](https://img.shields.io/badge/Focus-PQC_Infrastructure-blue)
 
