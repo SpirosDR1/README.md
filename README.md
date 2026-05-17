@@ -40,19 +40,6 @@ QUBEX Sentinel is designed as a universal security primitive for the entire Web3
 
 ---
 
-## The Invisible Shield Advantage
-
-Why L1/L2 ecosystems choose QUBEX Sentinel:
-
-- Universal Middleware: Integrates as a single-line wrapper around existing sequencers.
-- Zero Friction: No hard forks, no protocol changes, no gas-spikes.
-- Cross-Chain Native: Designed for EVM, Sealevel (Solana), and Bitcoin L2 infrastructure.
-- Audit-Ready Logic: Built on NIST-standardized Post-Quantum algorithms.
-
-> Current Focus: We are actively seeking pilot partners for Base, Optimism, Polygon, and Bitcoin L2 testnet deployments.
-
----
-
 ## Key Benchmarks (v9.0)
 The core logic has been stress-tested using our proprietary "Chaos Engine" v9.0:
 * TVL Resilience: Tested against $10.5B+ in simulated digital assets.
