@@ -20,7 +20,7 @@ QUBEX is built on a dual-layer strategy to bridge the gap between scientific res
 
 | Metric | Value |
 | :--- | :--- |
-| Core Logic Overhead | 0.52 ms (Optimized Go Binary) |
+| Core Logic Overhead | 1.1 ms (Optimized Go Binary) |
 | Total Network Latency | 11.2 ms |
 | Security Standard | NIST Post-Quantum Level 5 |
 | Gas Efficiency | Up to 90% reduction via proof aggregation |
