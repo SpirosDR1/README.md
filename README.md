@@ -48,7 +48,6 @@ The core logic has been stress-tested using our proprietary "Chaos Engine" v9.0:
 
 ## Integration Nodes
 Our architecture is designed to decouple security validation from execution logic, making it compatible with:
-* OP Stack (Base, Optimism)
 * EVM-Compatible L1s/L2s
 * Institutional Custody Providers
 
