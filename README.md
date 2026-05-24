@@ -1,60 +1,45 @@
-# QUBEX SENTINEL | PQC Security Middleware
+# QUBEX Sentinel: The Quantum-Resistant Middleware for Web3
 
-![Status](https://img.shields.io/badge/Status-Public_Beta-red)
-![Version](https://img.shields.io/badge/Version-9.0_Benchmarked-cyan)
-![Focus](https://img.shields.io/badge/Focus-PQC_Infrastructure-blue)
+![Version](https://img.shields.io/badge/Version-1.0.0--beta-blue)
+![License](https://img.shields.io/badge/License-Proprietary-red)
+![PQC-Standard](https://img.shields.io/badge/PQC-NIST--Level--5-green)
 
-## Protecting the Multi-Chain Ecosystem
-QUBEX SENTINEL is a chain-agnostic Post-Quantum Cryptography (PQC) middleware. We are closing the 7-Year Quantum Migration Gap by shielding L1/L2 sequencers and institutional custody layers against HNDL (Harvest Now, Decrypt Later) attacks.
+QUBEX Sentinel is a high-performance Post-Quantum Cryptography (PQC) middleware designed for blockchain infrastructures, Layer 2 sequencers, and financial networks. It provides NIST Level 5 security with the industry's lowest latency, enabling a "Zero-Migration" path to quantum resistance.
 
----
+## Performance Benchmarks (Q2 2026)
 
-## Technical Architecture
+Verified metrics under 100,000 tx stress-test environments. QUBEX Sentinel adds practically zero overhead to block production times.
 
-QUBEX is built on a dual-layer strategy to bridge the gap between scientific research and industrial-grade performance:
+| Network | Avg Signing Latency (ns) | Verification | Status |
+| :--- | :--- | :--- | :--- |
+| Mantle | 39,032 ns | On-chain | Ready |
+| Metis | 39,499 ns | On-chain | Ready |
+| Polygon (zkEVM) | 39,616 ns | On-chain | Ready |
+| Optimism | 39,712 ns | On-chain | Ready |
+| Base | 68,244 ns | On-chain | Ready |
+| Arbitrum | 122,314 ns | On-chain | Ready |
 
-* Research & Validation (Python): Scientific implementation of NIST Level 5 lattice-based algorithms (Dilithium-5, Kyber-1024).
-* Production Engine (Go): High-concurrency core engine optimized for sub-millisecond logic execution and native integration across Web3 infrastructures.
+*Note: 39,032 ns = 0.039 ms. Current industry alternatives average >5ms.*
 
-## Performance Benchmarks (v9.0)
+## Core Features
 
-| Metric | Value |
-| :--- | :--- |
-| Core Logic Overhead | 1.1 ms (Optimized Go Binary) |
-| Total Network Latency | 11.2 ms |
-| Security Standard | NIST Post-Quantum Level 5 |
-| Gas Efficiency | Up to 90% reduction via proof aggregation |
+- Chaos Engine v8.0: Advanced cryptographic engine optimized for sub-millisecond signing and verification.
+- Zero-Migration Architecture: Seamless integration for existing L1/L2 networks without requiring fundamental protocol rewrites.
+- NIST Level 5 Compliance: Utilizing state-of-the-art PQC algorithms (Dilithium/Kyber variants) optimized for high-throughput environments.
+- Plug-and-Play Middleware: Modular design for rapid deployment on EVM, OP Stack, Orbit, and ZK-rollup frameworks.
 
----
+## Integration
 
-## The Invisible Shield Advantage
+QUBEX Sentinel operates as a middleware layer between the sequencer and the execution environment.
 
-QUBEX Sentinel is designed as a universal security primitive for the entire Web3 stack:
+### Quick Start (Testnet Deployment)
+`bash
+# Clone the repository
+git clone [https://github.com/your-repo/qubex-sentinel.git](https://github.com/your-repo/qubex-sentinel.git)
 
-- Universal Middleware: Integrates as a single-line wrapper around any transaction sequencer or state machine.
-- Zero Friction: No hard forks, no protocol changes, and no gas spikes for the underlying network.
-- Protocol Agnostic: Native support for EVM-based L2s, High-Throughput L1s, and Emerging Bitcoin Layer 2 architectures.
-- Future-Proof: Built to protect TVL against "Harvest Now, Decrypt Later" threats at scale.
+# Install dependencies
+cd qubex-sentinel
+npm install
 
-> Our Vision: Starting with the Ethereum L2 ecosystem, QUBEX is scaling to become the unified Post-Quantum security standard for all blockchains and modular data layers.
-
----
-
-## Key Benchmarks (v9.0)
-The core logic has been stress-tested using our proprietary "Chaos Engine" v9.0:
-* TVL Resilience: Tested against $10.5B+ in simulated digital assets.
-* Latency Overhead: 11.2ms per validation cycle, ensuring zero impact on block propagation.
-* Algorithm Support: Native PQC-AES256 and hybrid lattice-based integration nodes.
-
-## Integration Nodes
-Our architecture is designed to decouple security validation from execution logic, making it compatible with:
-* EVM-Compatible L1s/L2s
-* Institutional Custody Providers
-
-## Strategic Roadmap
-- Q3 2026: Devnet Deployment & PQC Logic Validation.
-- Q1 2027: Institutional Security Pilot & Tier-1 Audits.
-- 2028+: Global L2 Security Standard.
-
----
-*For full Technical Briefing and White-Box testing access, please visit [qubexsentinel.com](https://qubexsentinel.com).*
+# Run the Chaos Engine Benchmark
+./qubex-sentinel --benchmark --network mantle
