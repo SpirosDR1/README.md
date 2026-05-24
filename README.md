@@ -43,3 +43,16 @@ npm install
 
 # Run the Chaos Engine Benchmark
 ./qubex-sentinel --benchmark --network mantle
+
+## Roadmap to 2028
+Q3 2026: RaaS (Rollup-as-a-Service) Native Integration (Conduit, AltLayer).
+Q1 2027: Launch of the Decentralized Post-Quantum Verification Network.
+Q4 2027: Institutional RWA Shield for Enterprise-grade on-chain assets.
+
+## Contact & Support
+
+For institutional inquiries, partnership opportunities, or technical deep-dives:
+
+Founder: Spyridon Gagrinas
+Company: QUBEX Sentinel
+Email: spyridongagr@qubexsentinel.com
