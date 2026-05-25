@@ -60,5 +60,7 @@ cd qubex-sentinel && npm install
 For institutional inquiries, partnership opportunities, or technical deep-dives:
 
 Founder & Lead Architect: Spyridon Gagrinas
+
 Company: QUBEX Sentinel
+
 Email: spyridongagr@qubexsentinel.com
