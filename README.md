@@ -48,6 +48,7 @@ To facilitate rapid adoption, we offer a Free Testnet Integration Program for ec
 git clone [https://github.com/your-repo/qubex-sentinel.git](https://github.com/your-repo/qubex-sentinel.git)
 cd qubex-sentinel && npm install
 ./qubex-benchmark --target [mantle|base|optimism]
+```
 
 ## Roadmap
 2026: Rollup-as-a-Service (RaaS) Native Integrations
