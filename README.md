@@ -41,19 +41,22 @@ QUBEX Sentinel is architected to scale with the modular future:
 
 ## Deployment & Testing
 
-To facilitate rapid adoption, we offer a Free Testnet Integration Program for ecosystem partners. You can verify our sub-millisecond benchmarks in your local environment using the QUBEX CLI.
+To facilitate rapid adoption, we offer a Free Testnet Integration Program. You can independently verify our sub-millisecond benchmarks in your local environment using our high-concurrency Go testing suite.
 
 ```bash
-# 1. Clone the QUBEX Sentinel Repository
-git clone https://github.com/SpirosDR1/QUBEX-SENTINEL.git
+# 1. Clone the Public Benchmark Repository
+git clone [https://github.com/SpirosDR1/Qubex-PQC-Benchmark.git]
 
-# 2. Install production dependencies
-cd QUBEX-SENTINEL && npm install
+# 2. Navigate to the directory and download Go modules
+cd Qubex-PQC-Benchmark
+go mod tidy
 
-# 3. Run the Chaos Engine stress-test on your target network
-./qubex-benchmark --target mantle
+# 3. Run the Chaos Engine stress-test against your target network
+go run main.go --target mantle
 ```
 *Pro Tip: For high-throughput L2/L3 testing, ensure your environment supports high-concurrency Go execution as decoupled by our production engine.*
+
+*Security Note: This public repository contains our high-performance stress-testing engine (Go). The core PQC cryptographic logic (Python/NIST Level 5 implementations) is maintained in a private repository to protect proprietary IP. Full white-box access is granted only under NDA during commercial integration.*
 
 ## Roadmap
 
