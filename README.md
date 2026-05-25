@@ -11,15 +11,15 @@ QUBEX Sentinel is a production-ready, plug-and-play middleware designed to provi
 ### The 39k ns Shield (Latest Benchmarks)
 While industry alternatives introduce massive overhead, our Chaos Engine delivers quantum security natively. Verified metrics under 100k tx stress-test (May 2026):
 
-| Network | Type | Avg Signing Latency (ns) | Verification Status |
-| :--- | :--- | :--- | :--- |
-| Mantle | Optimistic Rollup | 39,032 ns | On-chain Ready |
-| Metis | Optimistic Rollup | 39,499 ns | On-chain Ready |
-| Polygon | zkEVM / AggLayer | 39,616 ns | On-chain Ready |
-| Optimism | Optimistic Rollup | 39,712 ns | On-chain Ready |
-| Base | Optimistic Rollup | 68,244 ns | On-chain Ready |
-| Linea | zkEVM | 93,278 ns | On-chain Ready |
-| Arbitrum | Optimistic Rollup | 122,314 ns | On-chain Ready |
+| Rank | Network         | Type              | Avg Signing Latency | Verification | Status |
+| ---- | --------------- | ----------------- | ------------------: | ------------ | ------ |
+| 1    | Base            | Optimistic Rollup |           39,595 ns | On-chain     | Ready  |
+| 2    | Arbitrum        | Optimistic Rollup |           65,536 ns | On-chain     | Ready  |
+| 3    | Linea           | zkEVM             |          118,647 ns | On-chain     | Ready  |
+| 4    | BNB Smart Chain | L1 / Sidechain    |          121,210 ns | On-chain     | Ready  |
+| 5    | zkSync          | ZK Rollup         |          127,895 ns | On-chain     | Ready  |
+| 6    | Optimism        | Optimistic Rollup |          246,632 ns | On-chain     | Ready  |
+| 7    | Polygon (Amoy)  | zkEVM / AggLayer  |          438,600 ns | On-chain     | Ready  |
 
 *Real-world impact: QUBEX Sentinel adds virtually zero delay to block production times, maintaining the exact same UX for users.*
 
@@ -60,7 +60,7 @@ Live Now: Public Multi-Chain Benchmarks (11 live ecosystems).
 
 H2 2026: Genesis Partnership Program (RaaS Native Integrations).
 
-Summer 2027: Universal Integration. QUBEX neutralizes early-stage quantum threats across L1-L3.
+Summer 2027: Universal Integration. QUBEX neutralizes early-stage quantum threats across L1/L2/L3.
 
 2028+: The Global Industry Standard for Quantum-Secure Blockchain Infrastructure.
  
