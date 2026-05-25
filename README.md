@@ -41,7 +41,7 @@ You can independently verify our sub-millisecond benchmarks in your local enviro
 
 ```bash
 # 1. Clone the Public Benchmark Repository
-git clone [https://github.com/SpirosDR1/Qubex-PQC-Benchmarks.git](https://github.com/SpirosDR1/Qubex-PQC-Benchmarks.git)
+git clone https://github.com/SpirosDR1/Qubex-PQC-Benchmarks.git
 
 # 2. Navigate to the directory and download Go modules
 cd Qubex-PQC-Benchmarks
