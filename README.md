@@ -45,7 +45,7 @@ To facilitate rapid adoption, we offer a Free Testnet Integration Program. You c
 
 ```bash
 # 1. Clone the Public Benchmark Repository
-git clone [https://github.com/SpirosDR1/Qubex-PQC-Benchmark.git]
+git clone https://github.com/SpirosDR1/Qubex-PQC-Benchmark.git
 
 # 2. Navigate to the directory and download Go modules
 cd Qubex-PQC-Benchmark
