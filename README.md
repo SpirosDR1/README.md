@@ -51,8 +51,11 @@ cd qubex-sentinel && npm install
 ```
 
 ## Roadmap
+
 2026: Rollup-as-a-Service (RaaS) Native Integrations
+
 2027: Launch of the Decentralized Post-Quantum Verification Network & Node Sale
+
 2028+: The Global Industry Standard for Quantum-Secure Blockchain Infrastructure
 
 ### Contact & Support
