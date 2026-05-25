@@ -49,6 +49,11 @@ git clone [https://github.com/your-repo/qubex-sentinel.git](https://github.com/y
 cd qubex-sentinel && npm install
 ./qubex-benchmark --target [mantle|base|optimism]
 
+## Roadmap
+2026: Rollup-as-a-Service (RaaS) Native Integrations
+2027: Launch of the Decentralized Post-Quantum Verification Network & Node Sale
+2028+: The Global Industry Standard for Quantum-Secure Blockchain Infrastructure
+
 ### Contact & Support
 
 For institutional inquiries, partnership opportunities, or technical deep-dives:
