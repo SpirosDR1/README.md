@@ -41,14 +41,19 @@ QUBEX Sentinel is architected to scale with the modular future:
 
 ## Deployment & Testing
 
-To facilitate rapid adoption, we offer a Free Testnet Integration Program for ecosystem partners.
+To facilitate rapid adoption, we offer a Free Testnet Integration Program for ecosystem partners. You can verify our sub-millisecond benchmarks in your local environment using the QUBEX CLI.
 
 ```bash
-# Verify the benchmarks in your own environment
-git clone [https://github.com/your-repo/qubex-sentinel.git](https://github.com/your-repo/qubex-sentinel.git)
-cd qubex-sentinel && npm install
-./qubex-benchmark --target [mantle|base|optimism]
+# 1. Clone the QUBEX Sentinel Repository
+git clone https://github.com/SpirosDR1/QUBEX-SENTINEL.git
+
+# 2. Install production dependencies
+cd QUBEX-SENTINEL && npm install
+
+# 3. Run the Chaos Engine stress-test on your target network
+./qubex-benchmark --target mantle
 ```
+*Pro Tip: For high-throughput L2/L3 testing, ensure your environment supports high-concurrency Go execution as decoupled by our production engine.*
 
 ## Roadmap
 
