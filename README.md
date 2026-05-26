@@ -23,12 +23,19 @@ Unlike native, naive on-chain PQC implementations that destroy Transaction Per S
 
 Below are the audited validation latencies clocked across major Layer 2 stacks utilizing NIST Level 5 (ML-DSA / Crystals-Dilithium):
 
-| Ecosystem / Stack | Cryptographic Engine | Average Validation Latency | Status |
-| :--- | :--- | :--- | :--- |
-| Base / OP Stack | QUBEX Modular Engine | ~39,000 ns | Ready for Deployment |
-| Optimism Mainnet | QUBEX Modular Engine | ~42,000 ns | Ready for Deployment |
-| Arbitrum Orbit | QUBEX Modular Engine | ~65,536 ns | Ready for Deployment |
-| OKX X1 / Polygon CDK| QUBEX Modular Engine | ~51,200 ns | Testing Phase |
+| Rank | Ecosystem / Network | Architecture Type | Avg Validation Latency | Verification | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Base | Optimistic Rollup | 39,595 ns | On-chain | Ready for Deployment |
+| 2 | Arbitrum | Optimistic Rollup | 65,536 ns | On-chain | Ready for Deployment |
+| 3 | Scroll | zkEVM | 91,899 ns | On-chain | Ready for Deployment |
+| 4 | Linea | zkEVM | 118,647 ns | On-chain | Ready for Deployment |
+| 5 | BNB Smart Chain | L1 / Sidechain | 121,210 ns | On-chain | Ready for Deployment |
+| 6 | Mantle | Optimistic Rollup | 124,309 ns | On-chain | Ready for Deployment |
+| 7 | zkSync | ZK Rollup | 127,895 ns | On-chain | Ready for Deployment |
+| 8 | Blast | Optimistic Rollup | 181,195 ns | On-chain | Ready for Deployment |
+| 9 | Metis | Optimistic Rollup | 187,759 ns | On-chain | Ready for Deployment |
+| 10| Optimism | Optimistic Rollup | 246,632 ns | On-chain | Ready for Deployment |
+| 11| Polygon (Amoy)| zkEVM / AggLayer | 438,600 ns | On-chain | Ready for Deployment |
 
 ---
 
