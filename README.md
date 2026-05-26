@@ -17,7 +17,7 @@ Migrate now, or cease to exist later.
 
 ---
 
-## Production Benchmarks: Sub-Microsecond PQC
+## Production Benchmarks: Sub-Millisecond PQC
 
 Unlike native, naive on-chain PQC implementations that destroy Transaction Per Second (TPS) metrics due to large key sizes, QUBEX Sentinel operates as a decoupled middleware. 
 
