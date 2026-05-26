@@ -13,7 +13,7 @@ At QUBEX Sentinel, we build the infrastructure to native-proof EVM ecosystems wi
 ---
 
 ## Current Execution & Omnichain Benchmarks
-Unlike naive on-chain PQC implementations that destroy TPS metrics, QUBEX operates as a decoupled pre-batcher shield, injecting sub-microsecond NIST Level 5 security directly into the pipeline.
+Unlike naive on-chain PQC implementations that destroy TPS metrics, QUBEX operates as a decoupled pre-batcher shield, injecting sub-millisecond NIST Level 5 security directly into the pipeline.
 
 * Mission: Establishing the EVM-wide protocol standardization for PQC integration.
 * Performance: Decoupled ML-DSA pre-batcher shield benchmarked at an enterprise baseline of ~39k - 65k ns latency.
