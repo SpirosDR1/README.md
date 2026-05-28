@@ -20,7 +20,7 @@ Unlike naive on-chain PQC implementations that destroy TPS metrics, QUBEX operat
 
 * Mission: Establishing the EVM-wide protocol standardization for PQC integration.
 * Performance: Hardware-agnostic ML-DSA architecture. Devnet validated at ~317k ns (Consumer CPU limit), engineered to scale at
-  < 100,000 ns on Enterprise Bare-Metal.
+  <100,000 ns on Enterprise Bare-Metal.
 * Milestone: 1.1 Million concurrent PQC operations verified across 11 Tier-1 EVMs in 1m 46s.
 
 [View the Live Devnet Omnichain Report & Codebase Here](https://qubexsentinel.com/benchmarks)
