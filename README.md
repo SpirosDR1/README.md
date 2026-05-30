@@ -1,27 +1,52 @@
-# Spyridon Gagrinas | Founder & Lead Architect
+# Spyridon Gagrinas
 
-Engineering the Post-Quantum Cryptography (PQC) Standard for the Superchain.
+### Founder & Lead Architect @ Qubex Sentinel
 
-![Status](https://img.shields.io/badge/Status-Devnet_Active-success) ![Security](https://img.shields.io/badge/Security-NIST_Level_5-blue) ![L1_Impact](https://img.shields.io/badge/L1_Impact-Zero-lightgrey)
+I don't predict cryptographic collapse; I secure against it. Fusing Predictive AI with Post-Quantum Cryptography to build the ultimate, omnichain DePIN security layer for Web3. Code > Promises.
 
-## The Thesis: Cryptographic Collapse is an Active Threat
-
-Current Layer 2 rollups, sequencers, and cross-chain bridges rely entirely on legacy ECDSA and Ed25519 signatures. This infrastructure is mathematically vulnerable to "Harvest Now, Decrypt Later" (HNDL) vectors. Nation-states and malicious actors are actively intercepting on-chain data today.
-
-At QUBEX Sentinel, we build the infrastructure to native-proof EVM ecosystems with absolute sovereignty and zero L1 calldata overhead.
-
-*Migrate now, or cease to exist later.*
+Primary Mission: Native-proofing EVM ecosystems, Sequencers, and Cross-Chain Bridges against "Harvest Now, Decrypt Later" (HNDL) quantum threat vectors.
 
 ---
 
-## Current Execution & Omnichain Benchmarks
+### The Qubex Sentinel System: AI-Driven DePIN
 
-Unlike naive on-chain PQC implementations that destroy TPS metrics, QUBEX operates as a decoupled pre-batcher shield, injecting sub-millisecond NIST Level 5 security directly into the pipeline.
+Theoretical PQC standardization is too slow. Existing networks cannot rebuild their consensus models without fragmenting liquidity. We provide millisecond-grade, non-disruptive security at the mempool level.
 
-* Mission: Establishing the EVM-wide protocol standardization for PQC integration.
-* Performance: Hardware-agnostic ML-DSA architecture. Devnet validated at ~476k ns (Consumer CPU limit), engineered to scale at
-  <100,000 ns on Enterprise Bare-Metal.
-* Milestone: 1.1 Million concurrent PQC operations verified across 11 Tier-1 EVMs in 1m 46s.
+#### How it Works:
+1.  Predictive AI (Chaos Engine): The brain. Active matrix analysis of L2/Bridge mempools to detect anomalous HNDL sequencing patterns *before* they reach the execution layer.
+2.  Decentralized Sentinel Nodes: The muscle. A global DePIN handles NIST ML-DSA signature verification, ensuring zero central points of failure and sovereign integrity for every chain.
+
+---
+
+### OmniChain PQC DePIN Benchmarks (Devnet Active)
+
+Unlike academic implementations that destroy network TPS, Qubex operates as a decoupled, high-performance shield engineered for real-world DePIN deployment.
+
+| Metric | Devnet Verified Value | Notes |
+| :--- | :--- | :--- |
+| Verification Latency | ~0.17ms (~170k ns) | Achieved on Consumer-Grade Hardware, validating true DePIN viability. |
+| L1 Calldata Impact | 0% | Via optimized signature aggregation. Zero gas bloat. |
+| Concurrent Ops | 2,200,000+ | Verified simultaneously across 11 Tier-1 EVM ecosystems. |
+
+---
+
+### Genesis Partnership Program
+
+Stealth mode is over. We are currently selecting high-TVL Cross-Chain Bridges and Tier-1 Rollup ecosystems for exclusive Genesis Pilot integrations of the DePIN layer.
+
+[Submit Genesis Pilot Request Here](link-to-your-form)
+
+---
+
+### Arsenal
+- Status: Devnet Active
+- Security Model: NIST Level 5 (ML-DSA-87 / ML-KEM-1024)
+- Network Model: Decentralized (DePIN Node Network)
+- Chain Support: EVM Omnichain Proxy
+
+"Migrate now, or cease to exist later."
+
+[qubex.io](https://qubex.io) • [LinkedIn](your-linkedin-link) • [Farcaster](your-farcaster-link)
 
 [View the Live Devnet Omnichain Report & Codebase Here](https://qubexsentinel.com/benchmarks)
 
