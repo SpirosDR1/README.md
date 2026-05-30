@@ -30,14 +30,6 @@ Unlike academic implementations that destroy network TPS, Qubex operates as a de
 
 ---
 
-### Genesis Partnership Program
-
-Stealth mode is over. We are currently selecting high-TVL Cross-Chain Bridges and Tier-1 Rollup ecosystems for exclusive Genesis Pilot integrations of the DePIN layer.
-
-[Submit Genesis Pilot Request Here](link-to-your-form)
-
----
-
 ### Arsenal
 - Status: Devnet Active
 - Security Model: NIST Level 5 (ML-DSA-87 / ML-KEM-1024)
