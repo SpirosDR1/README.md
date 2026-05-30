@@ -46,7 +46,7 @@ Stealth mode is over. We are currently selecting high-TVL Cross-Chain Bridges an
 
 "Migrate now, or cease to exist later."
 
-[qubex.io](https://qubexsentinel.com) • [LinkedIn](https://www.linkedin.com/in/spyridon-g-9858b03a0/) • [Farcaster](https://farcaster.xyz/qubexsentinel)
+[qubexsentinel.com](https://qubexsentinel.com) • [LinkedIn](https://www.linkedin.com/in/spyridon-g-9858b03a0/) • [Farcaster](https://farcaster.xyz/qubexsentinel)
 
 [View the Live Devnet Omnichain Report & Codebase Here](https://qubexsentinel.com/benchmarks)
 
