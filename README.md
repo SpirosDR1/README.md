@@ -46,6 +46,6 @@ Unlike academic implementations that destroy network TPS, Qubex operates as a de
 
 ## Genesis Partnership Program
 
-We are currently selecting high-TVL Tier-1 DeFi protocols and Rollup-as-a-Service (RaaS) providers for exclusive Genesis Pilot integrations.
+We are currently selecting high-TVL Cross-Chain Bridges and Tier-1 Rollup ecosystems for exclusive Genesis Pilot integrations of the DePIN layer.
 
 [Submit Genesis Pilot Request Here](https://forms.gle/hmUdBiQz3PT2x8TT7)
