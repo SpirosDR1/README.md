@@ -23,7 +23,11 @@ Unlike academic implementations that destroy network TPS, Qubex operates as a de
 
 ---
 
-### ArsenaStatus:s:** Devnet ActivSecurity Model:l:** NIST Level 5 (ML-DSA-87Network Model:l:** Decentralized Sentinel Node NetworChain Support:t:** Omnichain Broadcaster (Live on 8 Networks)
+### ArsenaStatus:
+
+** Devnet ActivSecurity Model:l:** 
+
+NIST Level 5 (ML-DSA-87Network Model:l:** Decentralized Sentinel Node NetworChain Support:t:** Omnichain Broadcaster (Live on 8 Networks)
 
 *"Migrate now, or cease to exist later."*
 
