@@ -38,7 +38,7 @@ Unlike academic implementations that destroy network TPS, Qubex operates as a de
 
 *"Migrate now, or cease to exist later."*
 
-[qubexsentinel.com](qubexsentinel.com) • [LinkedIn](https://www.linkedin.com/in/spyridon-g-9858b03a0/) • [Farcaster](https://farcaster.xyz/qubexsentinel)
+[qubexsentinel.com](https://qubexsentinel.com/) • [LinkedIn](https://www.linkedin.com/in/spyridon-g-9858b03a0/) • [Farcaster](https://farcaster.xyz/qubexsentinel)
 
 [View the Live Devnet Omnichain Report & Codebase Here](https://github.com/SpirosDR1/Qubex-PQC-Benchmarks)
 
