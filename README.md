@@ -19,15 +19,22 @@ Theoretical PQC standardization is too slow. Existing networks cannot rebuild th
 Unlike academic implementations that destroy network TPS, Qubex operates as a decoupled, high-performance shield engineered for real-world DePIN deployment.
 
 | Metric | Devnet Verified Value | Notes |
-| :--- | :--- | :--- Verification Latencycy** | 175µs - 590µs | Achieved under extreme concurrency, validating true DePIN viability without sequencer degradation. L1 Calldata Impactct** | 0% | Via decoupled pre-batcher execution. Zero gas bloat. Concurrent Opsps** | 2,200,000+ | Capacity verified across 8 EVM ecosystems (6 Tier-1 L2 Rollups + 2 L1 Settlement Layers). |
+| :--- | :--- | :--- |
+| Verification Latency | 175µs - 590µs | Achieved under extreme concurrency, validating true DePIN viability without sequencer degradation. |
+| L1 Calldata Impact | 0% | Via decoupled pre-batcher execution. Zero gas bloat. |
+| Concurrent Ops | 2,200,000+ | Capacity verified across 8 EVM ecosystems (6 Tier-1 L2 Rollups + 2 L1 Settlement Layers). |
 
 ---
 
-### ArsenaStatus:
+### Arsenal
 
-** Devnet ActivSecurity Model:l:** 
+* Status: Devnet Active
 
-NIST Level 5 (ML-DSA-87Network Model:l:** Decentralized Sentinel Node NetworChain Support:t:** Omnichain Broadcaster (Live on 8 Networks)
+* Security Model: NIST Level 5 (ML-DSA-87)
+
+* Network Model: Decentralized Sentinel Node Network
+
+* Chain Support: Omnichain Broadcaster (Live on 8 Networks)
 
 *"Migrate now, or cease to exist later."*
 
@@ -38,6 +45,7 @@ NIST Level 5 (ML-DSA-87Network Model:l:** Decentralized Sentinel Node NetworChai
 ---
 
 ### Genesis Partnership Program
+
 We are currently selecting high-TVL Cross-Chain Bridges and Tier-1 Rollup ecosystems for exclusive Genesis Pilot integrations of the DePIN layer.
 
 [Submit Genesis Pilot Request Here](https://forms.gle/hmUdBiQz3PT2x8TT7)
