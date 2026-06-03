@@ -10,7 +10,7 @@ Primary Mission: Native-proofing high-TVL L1 Settlement Layers, L2 Sequencers, a
 ---
 
 ### The QUBEX Sentinel System: AI-Driven DePIN
-Theoretical PQC standardization is too slow. Existing networks cannot rebuild their consensus models without fragmenting liquidity. We provide microsecond-grade ($\mu$s), non-disruptive security at the mempool level.
+Theoretical PQC standardization is too slow. Existing networks cannot rebuild their consensus models without fragmenting liquidity. We provide microsecond-grade (μs), non-disruptive security at the mempool level.
 
 *   Predictive AI (Chaos Engine): The brain. Active matrix analysis of L1/L2/Bridge mempools to detect anomalous HNDL sequencing patterns *before* they reach the execution layer.
 *   Decentralized Sentinel Nodes: The muscle. A global DePIN handling NIST ML-DSA-87 signature verification, ensuring zero central points of failure and sovereign integrity for every chain.
