@@ -18,7 +18,7 @@ Go (Concurrency) | NIST ML-DSA (Integration Phase) | EVM RPC Routing | Bare-Meta
 > "Securing the multi-chain ecosystem before the quantum cliff."
 
 ### Arsenal
-*   Status: Devnet Active
+*   Status: Mainnet PoC Active
 *   Security Model: NIST Level 5 (ML-DSA-87)
 *   Network Model: Decentralized Sentinel Node Network
 *   Chain Support: OmniChain Broadcaster (Live on 6 Networks)
