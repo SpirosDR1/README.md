@@ -31,6 +31,6 @@ Go (Concurrency) | NIST ML-DSA (Integration Phase) | EVM RPC Routing | Bare-Meta
 ---
 
 ### Genesis Partnership Program
-We are currently selecting high-TVL L2s, Cross-Chain Bridges, and Tier-1 Rollup ecosystems for exclusive Genesis Pilot integrations of the DePIN layer.  
+We are currently selecting high-TVL L1s, L2s, Cross-Chain Bridges, and Tier-1 Rollup ecosystems for exclusive Genesis Pilot integrations of the DePIN layer.  
 
 [Submit Genesis Pilot Request Here](https://forms.gle/hmUdBiQz3PT2x8TT7)
