@@ -25,7 +25,7 @@ Go (Concurrency) | NIST ML-DSA-87 Validation | EVM RPC Routing | Bare-Metal Clou
 
 [qubexsentinel.com](https://qubexsentinel.com/) | [LinkedIn](https://www.linkedin.com/in/spyridon-g-9858b03a0/) | [Farcaster](https://farcaster.xyz/qubexsentinel)
 
-[Audit the QUBEX Omnichain Architecture & Benchmarks Here]()
+[Audit the QUBEX Omnichain Architecture & Benchmarks Here](https://github.com/SpirosDR1/Qubex-PQC-Benchmarks)
 
 ### Genesis Partnership Program
 We are currently selecting high-TVL L2s, L3s, Cross-Chain Bridges, and Tier-1 Rollup ecosystems for exclusive Genesis Pilot integrations of the DePIN layer.
