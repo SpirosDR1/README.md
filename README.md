@@ -25,7 +25,7 @@ $1T+ in institutional cryptocurrency is exposed to quantum computing threats. EC
 - **Twitter:** [@QUBEX_SENTINEL](https://x.com/QUBEX_SENTINEL) | [@Spiros_Gagrinas](https://x.com/Spiros_Gagrinas)
 - **Discord:** https://discord.gg/ZQXZcNVcR
 - **LinkedIn:** [Spyridon Gagrinas](https://www.linkedin.com/in/spyridon-g-9858b03a0/)
-- **Farcaster** [QUBEX Sentinel] (https://farcaster.xyz/qubexsentinel)
+- **Farcaster** [QUBEX Sentinel](https://farcaster.xyz/qubexsentinel)
 
 ---
 
