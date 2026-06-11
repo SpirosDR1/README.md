@@ -1,33 +1,34 @@
 # Spyridon Gagrinas
 
-Founder & Lead Architect @ QUBEX Sentinel
+Founder @ **QUBEX Sentinel** — Building post-quantum cryptography infrastructure for institutional crypto custody.
 
-Building the 1st AI-Driven Post-Quantum DePIN.
+## What I'm Building
 
-My focus is strictly on securing L1s, L2s, and Cross-Chain Bridges from Harvest Now, Decrypt Later (HNDL) vectors.
+$1T+ in institutional cryptocurrency is exposed to quantum computing threats. ECDSA breaks in 3-5 years. No solution exists.
 
-### Current Execution (Q2 2026)
-* Chaos Engine Routing: Live on 6 EVM Mainnets (Base, Arbitrum, Optimism, Ethereum, BSC, Polygon).
-* Throughput: Concurrent mempool piercing with sub-second latency and 0% L1 gas bloat.
-* Infrastructure: Bare-metal redundancy via decentralized node clusters.
-* Current Status: Opening 90-Day Zero-Cost Pilots for enterprise RaaS and L2/L3 integrations.
+**QUBEX Sentinel** is the enterprise infrastructure that becomes the standard for quantum-safe custody across Web3.
 
-### The Tech Stack
-Go (Concurrency) | NIST ML-DSA-87 Validation | EVM RPC Routing | Bare-Metal Cloud
+## Current Focus
 
-### Arsenal
-* Status: Live Mainnet Infrastructure
-* Security Model: NIST Level 5 (ML-DSA-87)
-* Network Model: Decentralized Sentinel Node Network
-* Chain Support: OmniChain Broadcaster (Live on 6 Networks)
+- **Phase 1:** Enterprise SaaS API for PQC signature validation (June-August 2026)
+- **Phase 2:** Professional security audits (Sept-Dec 2026)
+- **Phase 3:** Institutional pilots (2027)
+- **Phase 4:** Becoming the reference standard (2028+)
 
-> *Code > Promises.*
+## Key Projects
 
-[qubexsentinel.com](https://qubexsentinel.com/) | [LinkedIn](https://www.linkedin.com/in/spyridon-g-9858b03a0/) | [Farcaster](https://farcaster.xyz/qubexsentinel)
+- [Qubex-PQC-Benchmarks](https://github.com/SpirosDR1/Qubex-PQC-Benchmarks) — ML-DSA-87 implementation + institutional API
 
-[Audit the QUBEX Omnichain Architecture & Benchmarks Here](https://github.com/SpirosDR1/Qubex-PQC-Benchmarks)
+## Connect
 
-### Genesis Partnership Program
-We are currently selecting high-TVL L2s, L3s, Cross-Chain Bridges, and Tier-1 Rollup ecosystems for exclusive Genesis Pilot integrations of the DePIN layer.
+- **Site:** https://qubexsentinel.com
+- **Twitter:** [@QUBEX_SENTINEL](https://x.com/QUBEX_SENTINEL) | [@Spiros_Gagrinas](https://x.com/Spiros_Gagrinas)
+- **Discord:** https://discord.gg/ZQXZcNVcR
+- **LinkedIn:** [Spyridon Gagrinas](https://www.linkedin.com/in/spyridon-g-9858b03a0/)
+- **Farcaster** [QUBEX Sentinel] (https://farcaster.xyz/qubexsentinel)
 
-[Submit Genesis Pilot Request Here](https://forms.gle/DS7RuUVEVixsgX1k7)
+---
+
+Founder. Building the infrastructure Web3 needs to survive quantum computing.
+
+*No fluff. No fake metrics. Just execution toward the standard.*
