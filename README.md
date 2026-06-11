@@ -29,6 +29,6 @@ $1T+ in institutional cryptocurrency is exposed to quantum computing threats. EC
 - **Proffesional E-mail** spyridongagr@qubexsentinel.com
 ---
 
-Founder. Building the infrastructure Web3 needs to survive quantum computing.
+Building the infrastructure Web3 needs to survive quantum computing.
 
 *No fluff. No fake metrics. Just execution toward the standard.*
