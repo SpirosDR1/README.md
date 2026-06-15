@@ -1,34 +1,47 @@
 # Spyridon Gagrinas
 
-Founder @ **QUBEX Sentinel** — Building post-quantum cryptography infrastructure for institutional crypto custody.
+Founder @ **QUBEX Sentinel** — building post-quantum cryptography
+infrastructure for institutional crypto custody.
 
 ## What I'm Building
 
-$1T+ in institutional cryptocurrency is exposed to quantum computing threats. ECDSA breaks in 3-5 years. No solution exists.
+Institutional crypto sits on ECDSA-secured chains. Those public keys are
+exposed to "harvest now, decrypt later": data captured today can be
+broken once a cryptographically relevant quantum computer exists
+(most estimates put that in the 2030s, with real uncertainty). Institutions
+can't migrate chains to fix it — so they need post-quantum verification
+added where their assets already sit.
 
-**QUBEX Sentinel** is the enterprise infrastructure that becomes the standard for quantum-safe custody across Web3.
+Incumbent custody providers haven't built this for institutions yet.
+**QUBEX Sentinel** is the verification infrastructure for that gap.
 
-## Current Focus
+## Current Status
 
-- **Phase 1:** Enterprise SaaS API for PQC signature validation (June-August 2026)
-- **Phase 2:** Professional security audits (Sept-Dec 2026)
-- **Phase 3:** Institutional pilots (2027)
-- **Phase 4:** Becoming the reference standard (2028+)
+- **Live:** ML-DSA-87 (FIPS 204, level 5) benchmark + stateless
+  verification API returning signed, independently-verifiable attestations.
+- **In progress:** persistent attestation identity; institutional
+  integration path.
+- **Research:** ZK proof that verification ran correctly.
+
+Direction (not date-promises): verification API → independent security
+review → institutional pilots.
 
 ## Key Projects
 
-- [Qubex-PQC-Benchmarks](https://github.com/SpirosDR1/Qubex-PQC-Benchmarks) — ML-DSA-87 implementation + institutional API
+- [Qubex-PQC-Benchmarks](https://github.com/SpirosDR1/Qubex-PQC-Benchmarks)
+  — ML-DSA-87 benchmark + verification API with signed attestations.
 
 ## Connect
 
 - **Site:** https://qubexsentinel.com
-- **Twitter:** [@QUBEX_SENTINEL](https://x.com/QUBEX_SENTINEL) | [@Spiros_Gagrinas](https://x.com/Spiros_Gagrinas)
+- **X:** [@QUBEX_SENTINEL](https://x.com/QUBEX_SENTINEL) | [@Spiros_Gagrinas](https://x.com/Spiros_Gagrinas)
 - **Discord:** https://discord.gg/ZQXZcNVcR
 - **LinkedIn:** [Spyridon Gagrinas](https://www.linkedin.com/in/spyridon-g-9858b03a0/)
-- **Farcaster** [QUBEX Sentinel](https://farcaster.xyz/qubexsentinel)
-- **Proffesional E-mail** spyridongagr@qubexsentinel.com
+- **Farcaster:** [QUBEX Sentinel](https://farcaster.xyz/qubexsentinel)
+- **Email:** spyridongagr@qubexsentinel.com
+
 ---
 
-Building the infrastructure Web3 needs to survive quantum computing.
-
-*No fluff. No fake metrics. Just execution toward the standard.*
+Building the verification layer institutional crypto needs for the
+quantum transition.
+*No fluff. No fake metrics. Just execution.*
