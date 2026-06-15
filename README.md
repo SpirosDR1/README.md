@@ -18,9 +18,9 @@ Incumbent custody providers haven't built this for institutions yet.
 ## Current Status
 
 - **Live:** ML-DSA-87 (FIPS 204, level 5) benchmark + stateless
-  verification API returning signed, independently-verifiable attestations.
-- **In progress:** persistent attestation identity; institutional
-  integration path.
+  verification API returning signed, independently-verifiable
+  attestations, with a persistent attestation identity.
+- **In progress:** institutional integration path.
 - **Research:** ZK proof that verification ran correctly.
 
 Direction (not date-promises): verification API → independent security
