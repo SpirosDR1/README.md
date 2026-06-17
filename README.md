@@ -12,8 +12,10 @@ broken once a cryptographically relevant quantum computer exists
 can't migrate chains to fix it — so they need post-quantum verification
 added where their assets already sit.
 
-Incumbent custody providers haven't built this for institutions yet.
-**QUBEX Sentinel** is the verification infrastructure for that gap.
+No one has shipped a verification layer that adds quantum-safe assurance
+to existing institutional custody flows without requiring chain
+migration. **QUBEX Sentinel** is the verification infrastructure for
+that specific gap.
 
 ## Current Status
 
