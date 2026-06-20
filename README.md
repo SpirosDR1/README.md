@@ -4,18 +4,22 @@ Founder @ **QUBEX Sentinel** — building post-quantum cryptography
 infrastructure for institutional crypto custody.
 
 ## What I'm Building
-
 Institutional crypto sits on ECDSA-secured chains. Those public keys are
 exposed to "harvest now, decrypt later": data captured today can be
 broken once a cryptographically relevant quantum computer exists
-(most estimates put that in the 2030s, with real uncertainty). Institutions
-can't migrate chains to fix it — so they need post-quantum verification
-added where their assets already sit.
+(most estimates put that in the 2030s, with real uncertainty).
 
-No one has shipped a verification layer that adds quantum-safe assurance
-to existing institutional custody flows without requiring chain
-migration. **QUBEX Sentinel** is the verification infrastructure for
-that specific gap.
+**QUBEX Sentinel** is a NIST-standard ML-DSA-87 verification checkpoint
+that institutions can add inside their own internal authorization flow —
+independently checkable, no chain migration, no custody of keys or
+funds.
+
+Honest limit: this doesn't protect an already-exposed public key from
+an attacker broadcasting directly to the chain — only the chain itself
+can close that, through migration or opt-in account abstraction (e.g.
+Ethereum's EIP-8141 direction). What it adds is a verification
+checkpoint inside an institution's own process, and demonstrable
+readiness for what comes next.
 
 ## Current Status
 
